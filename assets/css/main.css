@@ -686,9 +686,16 @@
     }
   
     .hero__img {
-      justify-self: flex-end;
-     margin-top: -20%;
-     border-radius: 10%;
+      /* justify-self: flex-end; */
+     /* margin-top: -20%; */
+     border-radius: 4%;
+     /* margin-top: -169px;
+     margin-bottom: 100px; */
+     /* margin-right: 150px; */
+     margin-left: 80px;
+     width: 100%;
+     height: auto;
+    
     }
   }
   
